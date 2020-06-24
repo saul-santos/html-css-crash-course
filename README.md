@@ -1,0 +1,2 @@
+This web repository was created following a CSS and HTML5 crash course of "The Net Ninja"
+Watch the course for free here: https://www.youtube.com/watch?v=hu-q2zYwEYs&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G
